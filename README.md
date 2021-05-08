@@ -1,3 +1,4 @@
 # ML-Notes
 
-Creating notes repository for collection of ML algo and related question.
+Creating notes repository for collection of ML algo and related question for interview.
+
