@@ -1,4 +1,4 @@
 # ML-Notes
 
-Repository for collection of ML algo. (incomplete)
+Repository for collection of ML algo. (WIP)
 
